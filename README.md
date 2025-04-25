@@ -22,16 +22,17 @@ A pirate-themed maze game built with **Python** and **Tkinter**, featuring:
 ## 🎨 Screenshots
 
 ### 🏴 Game Start
-![Game Start](screenshots/game-start.png)
+<img src="screenshots/game-start.png" width="400"/>
+
 
 ### 🌫️ How The Game Looks Like
-![Game Window](screenshots/game.png)
+<img src="screenshots/game.png" width="400"/>
 
 ### 🏆 Win Screen
-![Win Screen](screenshots/win.png)
+<img src="screenshots/win.png" width="400"/>
 
 ### 💔 Lost Screen
-![Lost Screen](screenshots/lost.png)
+<img src="screenshots/lost.png" width="400"/>
 
 
 
